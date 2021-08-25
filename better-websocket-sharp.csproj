@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>better_websocket_sharp</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Net\" />
+    <Folder Include="Server\" />
+  </ItemGroup>
+
+</Project>
